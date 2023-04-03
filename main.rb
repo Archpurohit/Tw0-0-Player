@@ -1,0 +1,7 @@
+require_relative 'player'
+require_relative 'math_game'
+require_relative 'turn'
+require_relative 'question'
+require_relative 'numbers'
+require_relative 'lives'
+require_relative 'scores'
